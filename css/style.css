@@ -1036,10 +1036,6 @@ img {
   display: block;
   margin: auto;
 }
-.article-entry img{
-  display: inline-block;
-  vertical-align: middle;
-}
 .article-entry iframe {
   border: none;
 }
